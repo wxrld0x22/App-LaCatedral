@@ -1,6 +1,6 @@
 # La Catedral Airsoft - Aplicativo Mobile
 
-![Logo La Catedral](./LaCatedral/assets/logo.png)
+![Logo La Catedral](https://github.com/wxrld0x22/App-LaCatedral/blob/master/LaCatedral/LaCatedral/assets/logo.png)
 
 ## 📋 Sobre o Projeto
 Projeto acadêmico desenvolvido por **Ielris Marques** em **07/02/2025** para a empresa **La Catedral Airsoft** (CNPJ: 42.619.235/0001-06).
